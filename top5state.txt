@@ -1,5 +1,0 @@
-{"school_id": "139999949055", "school_name": "School #472772062", "state": "GA", "percent_african_students": 417.11419975691433}
-{"school_id": "129999951256", "school_name": "School #467691461", "state": "FL", "percent_african_students": 365.16513777006503}
-{"school_id": "539999924062", "school_name": "School #817142209", "state": "WA", "percent_african_students": 347.1067655295273}
-{"school_id": "139999960585", "school_name": "School #159089944", "state": "GA", "percent_african_students": 342.45419975691436}
-{"school_id": "069999953559", "school_name": "School #548077136", "state": "CA", "percent_african_students": 337.8581160059025}

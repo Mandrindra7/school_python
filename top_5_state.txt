@@ -1,0 +1,5 @@
+{"state": "FL", "percent": 182.57245238322184}
+{"state": "GA", "percent": 172.85651126664152}
+{"state": "CA", "percent": 164.70688432049175}
+{"state": "DE", "percent": 143.02517897868762}
+{"state": "IL", "percent": 138.17648014738205}
